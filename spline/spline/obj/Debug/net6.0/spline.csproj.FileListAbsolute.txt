@@ -1,0 +1,5 @@
+C:\Users\darkly Now\Documents\MVS\spline\spline\obj\Debug\net6.0\spline.csproj.AssemblyReference.cache
+C:\Users\darkly Now\Documents\MVS\spline\spline\obj\Debug\net6.0\spline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkly Now\Documents\MVS\spline\spline\obj\Debug\net6.0\spline.AssemblyInfoInputs.cache
+C:\Users\darkly Now\Documents\MVS\spline\spline\obj\Debug\net6.0\spline.AssemblyInfo.cs
+C:\Users\darkly Now\Documents\MVS\spline\spline\obj\Debug\net6.0\spline.csproj.CoreCompileInputs.cache
